@@ -14,5 +14,5 @@
     --texto-fundo:rgba(13,105,122,0.3);
 }
 body{
-    background-color: var(--cor-de-fundo)
+    background-color: var(--cor-de-fundo);
 }
