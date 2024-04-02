@@ -68,10 +68,9 @@ body {
     .botoes{
     display: block;
     }
-
     .ativo{
         background-color: var(--cor-ativa);
-        border-bottom: 4px solid var(--cor-ativado);
+        border-bottom: 4px solid var(--cor-ativa);
     }
     .abas-textos{
         background-color: var(--cor-inativo);
@@ -90,10 +89,10 @@ body {
     }
     .abas-conteudo-titulo-secundario{
         text-align: center;
-        color: var(--cor-borda);
+        color: var(--cor-texto);
         text-transform: uppercase;
     }
-
+    
 @media screen and (min-width: 768px) {
     .botoes{
     display: flex;
