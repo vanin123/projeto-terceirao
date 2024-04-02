@@ -3,8 +3,8 @@
 :root {
     --cor-de-fundo:#634D65;
     --amarelo-escuro:#00026e;
-    --parte-cabecalho:rgba(38, 0, 255, 0.5);
-    --ciano:rgba(85, 236, 200, 0.86);
+    --parte-cabecalho:#2600ff80;
+    --ciano:#55ecc8db;
     --cor-relogio:rgb(238, 255, 0);
     --cor-dia-hora:rgb(255, 0, 247);
 }
